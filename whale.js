@@ -12,5 +12,5 @@ jQuery(document).ready(function($){
    });
     }
     update();
-    window.addEventListener('hashchanged', update ,false);
+    window.addEventListener('hashchange', update ,false);
 });
