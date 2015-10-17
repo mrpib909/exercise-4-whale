@@ -12,5 +12,5 @@ jQuery(document).ready(function($){
    });
     }
     update();
-    window.addEventListener('haschanged', update ,false);
+    window.addEventListener('hashchanged', update ,false);
 });
